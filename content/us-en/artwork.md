@@ -11,4 +11,4 @@ toc = true
 
 ## ABOUT
 
-The OFFICIAL(tm) SafetyThird badge art :D
+The OFFICIAL(tm) Safety Third badge art :D

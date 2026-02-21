@@ -10,5 +10,5 @@
 [[en.menu.shortcuts]]
   pre = '<i class="fa-fw fab fa-github"></i> '
   name = 'GitHub Repo'
-  url = 'https://github.com/BanjoFox/SafetyThird'
+  url = 'https://github.com/BanjoFox/Safety-Third'
   weight = 20
