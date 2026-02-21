@@ -8,4 +8,12 @@ toc = true
 
 [params]
     menuPre = '<i class="fa fa-bookmark" aria-hidden="true"></i>'
+    
 +++
+
+{{% resources
+    print = "false"
+    style = "primary" 
+    sort = "asc"
+    title = "Downloadable Versions"
+/%}}
