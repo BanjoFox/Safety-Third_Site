@@ -1,4 +1,4 @@
-module safetythird.netlify.app
+module safety-third.netlify.app
 
 go 1.24.4
 

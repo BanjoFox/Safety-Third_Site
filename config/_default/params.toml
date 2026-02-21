@@ -26,7 +26,7 @@ author.emailname = ''
 # This is used for generating social media meta information for the opengraph
 # protocol and twitter cards.
 # This can be overridden in the page's frontmatter.
-images = [ 'images/hero.png' ]
+images = [ 'images/safetythird-hero_large.png' ]
 
 ###############################################################################
 # Relearn Theme
@@ -143,12 +143,8 @@ disableRandomIds = false
 # If it matches at least one, no output will be written to the console.
 # This array can be expanded in the page's frontmatter.
 urlIgnoreCheck = [
-    'exampleSite',
 	'images/hero\.zip',
-	'http://localhost:1313',
-	'https://github\.com/McShelby/hugo-theme-relearn/settings',
-	'https://github\.com/McShelby/hugo-theme-relearn/archive/main\.zip',
-	'https://github\.com/McShelby/hugo-theme-relearn/edit/main/docs/introduction/releasenotes'
+	'http://localhost:1313'
 ]
 
 # Check external URLs
@@ -250,7 +246,7 @@ disableNextPrev = false
 # `${FilePath}` was appended at the end of the value. This can be overridden
 # in the pages frontmatter. This is useful if you want to give the opportunity
 # for people to create merge request for your content.
-editURL = 'https://github.com/McShelby/hugo-theme-relearn/edit/main/docs/content/${FilePath}'
+editURL = 'https://github.com/BanjoFox/Safety-Third/tree/main/content/us-en/${FilePath}'
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Search
@@ -628,7 +624,7 @@ image.errorlevel = 'warning'
 # given to the image. See the documentation for details.
 
 # Default: false
-imageEffects.border = true
+imageEffects.border = false
 # Default: false
 imageEffects.dataurl = false
 # Default: false
