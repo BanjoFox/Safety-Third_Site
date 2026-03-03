@@ -11,9 +11,7 @@ toc = true
     
 +++
 
-{{% resources
-    print = "false"
-    style = "primary" 
-    sort = "asc"
-    title = "Downloadable Versions"
-/%}}
+{{% notice icon="fa fa-cloud-download" style="primary" title="Downloadable Formats" expanded="false" %}}
+[Safety Third Presents: Kink 101 (PDF)](downloads/Safety-Third-Presents_Kink-101.pdf?target=_blank)  
+[Safety Third Presents: Kink 101 (PowerPoint)](downloads/Safety-Third-Presents_Kink-101.pptx?target=_blank)
+{{% /notice %}}

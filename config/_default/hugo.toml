@@ -27,3 +27,7 @@ logo = { src = '/images/logo.svg?inlinecontent', direction = 'row' }
 [module]
   [[module.imports]]
     path = 'github.com/McShelby/hugo-theme-relearn'
+
+#-
+# Your "Shortcuts" (External Resources) are in another config.
+# HINT: languages.toml
