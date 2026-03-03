@@ -10,7 +10,7 @@ toc = true
     menuPre = '<i class="fa fa-book" aria-hidden="true"></i>'
 +++
 
-{{% notice icon="fa fa-cloud-download" style="primary" title="Downloadable Formats" expanded="false" %}}
+{{% notice icon="fa fa-cloud-download" style="#1e0707ff" title="Downloadable Formats" expanded="false" %}}
 [Dictionary of Kink Terminology (PDF)](downloads/Dictionary_of_Kink_Terminology.pdf?target=_blank)  
 [Dictionary of Kink Terminology (MS Word)](downloads/Dictionary_of_Kink_Terminology.docx?target=_blank)
 {{% /notice %}}
