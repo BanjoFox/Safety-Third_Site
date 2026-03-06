@@ -46,7 +46,7 @@
 */}}
 
 {{/* Add static image to openGraph? */}}
-{{- with .Page.Resources.GetMatch "og.png" }}
+{{- with .Page.Resources.GetMatch "/images/og.png" }}
   <meta property="og:image" content="{{ .Permalink }}" />
 {{- end }}
 {{/* End custom OpenGraph image */}}

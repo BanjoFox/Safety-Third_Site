@@ -12,3 +12,6 @@
   name = 'GitHub Repo'
   url = 'https://github.com/BanjoFox/Safety-Third'
   weight = 20
+
+  [[en.menu.shortcuts.params]]
+  target = "_blank"

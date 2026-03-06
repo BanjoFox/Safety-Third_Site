@@ -20,7 +20,7 @@ toc = true
 ---
 
 **Aftercare**
-: The timespan after a scene which participants in the scene use to recover from the activity.
+: The timespan after a scene which participants in the scene use to recover from the activity. It is also not uncommon for the scene participants to contact one another in the following days/week as part of checking in on each other. Scenes can be very intense for some folks, and may take time to fully process.
 
     ---
 
@@ -30,7 +30,7 @@ toc = true
     ---
 
 **Consent**
-: Agreement between parties regarding a negotiated set of boundaries.
+: Agreement between parties regarding a negotiated set of boundaries. Crossing of any of the negotiatied boundaries ("breaking consent) is always taken _extremely_ seriously by the community at large, and often results in the outright banninng or blacklisting of those that do.
 
     ---
 
@@ -42,7 +42,7 @@ toc = true
     ---
 
 **(Modern) Kink**
-: A broad range of activities in which one or more participants engage in activities that are typically considered “non-normative”.
+: A broad range of activities in which one or more participants engage in activities that are typically considered “non-normative” or simply unconventional. While a kink may be a turn on, not all kinks or kinky activities are sexual in nature.
 
     ---
 
@@ -58,6 +58,14 @@ toc = true
 
 **Play**
 : The act of partaking in a kinky activity, regardless of role
+
+    ---
+
+**Play Collar**
+: Collars are a very common sight in the kink community, and all of them will have different meanings to the inviduals wearing them. Play Collar's are collars that are worn temporarily, such as for the duration of a [play party](02-Dictionary-of-kink "Play Party") or [scene](02-Dictionary-of-kink "Scene"). Individuals in Dominant/submissive relationships may also have different collars for different occasions such as a decorative [day collar](02-Dictionary-of-kink "Day Collar") for wearing in public, but a play collar for more vigorous activities.
+
+**Play Party**
+: An event at which folks are able to participate in kinky activities.
 
     ---
 
@@ -83,9 +91,24 @@ toc = true
 
     ---
 
+**Vet** | **Vetting** | **Vetted**
+: These are all terms for evaluating someone for approval or acceptance. Given the nature of the community, and the activities, it is not uncommon for invididuals to be "vetted" before being allowed into a private space or group. The specific requirements for acceptance is at the discretion of those doing the vetting, but the most prevalent is requiring a list of references within the community.
+
+    ---
+
 ## Kink Relationship Dynamics
 
 ---
+
+**Collaring**
+: Collars are commonly regarded as a physical symbol of obedience worn by submissive individuals. While there are some inviduals that will only use collars during a scene (referred to as "Play collars") the act of _collaring_ someone is to show dedication to the relationship, and in some respects "taking ownerhip" of the one being collared.
+
+    ---
+
+**Play Partner**
+: Strictly speaking Play Partners are defined as platonic relationships between two or more individuals that enjoy kinky activities together. The nature of such relationships is regularly platonic, although they could also be romantic, and/or sexual as well.
+
+    ---
 
 **Power Exchange**
 : Negotiated power imbalance, sometimes referred to as Authority Transfer.
@@ -102,13 +125,15 @@ toc = true
 
     ---
 
-**Dominant**  
-: An individual that receives control and/or authority over another individual.
+**Dom** | **Domme** | **Dominant**  
+: An individual that receives control and/or authority over another individual. It is not uncommon to see the "D" in Dominant captizalized, regardless of position within a sentence, such as in the Dominant/submissive or D/s context. Capitalization of the first letter (or not), is entirely left to the dicretion of the one using the term.
+
+    **NOTE** The "Domme" form is often used as a feminine-specific variant
 
     ---
 
-**Submissive**  
-: An individual that gives control and/or authority over to another individual
+**Sub** | **Submissive**  
+: An individual that gives control and/or authority over to another individual. It is not uncommon to see the "S" in submissive left lowercase, regardless of position within a sentence, such as in the Dominant/submissive or D/s context. Capitalization of the first letter (or not), is entirely left to the dicretion of the one using the term.
 
     ---
 
