@@ -9,8 +9,8 @@ toc = true
 +++
 
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
-[Risk Terminology and Examples (PDF)](downloads/Risk_Terminology_and_Examples-v.0.4.pdf?target=_blank)  
-[Risk Terminology and Examples (MS Word)](downloads/Risk_Terminology_and_Examples-v.0.4.docx?target=_blank)
+[Risk Terminology and Examples (pdf)](downloads/Risk_Terminology_and_Examples-v.0.4.pdf?target=_blank)  
+[Risk Terminology and Examples (docx)](downloads/Risk_Terminology_and_Examples-v.0.4.docx?target=_blank)
 {{% /notice %}}
 
 ## A Brief Dictionary of Risk

@@ -7,8 +7,8 @@ toc = true
 +++
 
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
-[Risk Profile Designer (PDF)](downloads/Risk_Profile_Designer-v.0.2.pdf?target=_blank)  
-[Risk Profile Designer (MS Word)](downloads/Risk_Profile_Designer-v.0.2.docx?target=_blank)
+[Risk Profile Designer (pdf)](downloads/Risk_Profile_Designer-v.0.2.pdf?target=_blank)  
+[Risk Profile Designer (docx)](downloads/Risk_Profile_Designer-v.0.2.docx?target=_blank)
 {{% /notice %}}
 
 ## Instructions
