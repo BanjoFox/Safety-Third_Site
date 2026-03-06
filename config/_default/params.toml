@@ -26,7 +26,7 @@ author.emailname = ''
 # This is used for generating social media meta information for the opengraph
 # protocol and twitter cards.
 # This can be overridden in the page's frontmatter.
-images = [ 'images/safety-third_banner-logo.svg' ]
+images = [ 'images/safetythird-hero_large.png' ]
 
 ###############################################################################
 # Relearn Theme

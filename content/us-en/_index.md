@@ -1,13 +1,15 @@
 +++
-title = ""
 type = "home"
+title = "Safety Third"
+description = "Welcome to the homepage of Safety Third. An educational organization who's primary function is to provide free, and open resources to the modern kink community."
+images = ['images/safety-third-hero_large.png']
 +++
 
 ![Safety Third Logo](/images/safety-third_banner-logoless.svg?width=25vw)
 
 ---
 
-Welcome to the home page of Safety Third's collection of openly licenced documents, aimed at providing FREE (as in beer) education for the kink community.
+Welcome to the home page of Safety Third's collection of openly licenced documents, aimed at providing FREE (as in beer) education and resources for the kink community.
 
 This repository is currently organized into folders by subject. Where possible the documents are available as plain text (Markdown), MS Word (docx), and PDF.
 
