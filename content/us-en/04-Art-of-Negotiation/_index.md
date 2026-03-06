@@ -12,15 +12,17 @@ toc = true
 +++
 
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
-[(TBD) The Art of Negotiation (PDF)](downloads\The_Art_of_Negotiation.pdf?target=_blank)  
-[(TBD) The Art of Negotiation (MS Word)](downloads\The_Art_of_Negotiation.docx?target=_blank)
+[(TBD) The Art of Negotiation (pdf)](under_construction)  
+[(TBD) The Art of Negotiation (docx)](under_construction)
 {{% /notice %}}
 
 ## TODO
 
-- Generic Negotiation Checklist
-- Common Negotiation Terminology
-- Examples for specific types of scenes
+- [ ] Generic Negotiation Checklist
+  - [ ] Wellness and mood
+  - [ ] Goals for the scene
+- [ ] Common Negotiation Terminology
+- [ ] Examples for specific types of scenes
 
 ### Negotiation Checklist
 
