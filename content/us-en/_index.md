@@ -1,6 +1,6 @@
 +++
 type = "home"
-title = "Safety Third - Open licensed resources for Modern Kink"
+title = "Safety Third"
 description = "Welcome to the homepage of Safety Third. An educational organization who's primary function is to provide free, and open resources to the modern kink community."
 images = ['images/safety-third-hero_large.png']
 +++
