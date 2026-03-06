@@ -12,8 +12,8 @@ toc = true
 +++
 
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
-[(TBD) Exploring D/s (PDF)](downloads\Exploring_D-s.pdf?target=_blank)  
-[(TBD) Exploring D/s (MS Word)](downloads\Exploring_D-s.docx?target=_blank)
+[(TBD) Exploring D/s (pdf)](downloads/Exploring_D-s.pdf?target=_blank)  
+[(TBD) Exploring D/s (pptx)](downloads/Exploring-D_s.pptx?target=_blank)
 {{% /notice %}}
 
 ## Exploring D/s

@@ -11,8 +11,8 @@ toc = true
 +++
 
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
-[Dictionary of Kink Terminology (PDF)](downloads/Dictionary_of_Kink_Terminology.pdf?target=_blank)  
-[Dictionary of Kink Terminology (MS Word)](downloads/Dictionary_of_Kink_Terminology.docx?target=_blank)
+[Dictionary of Kink Terminology (pdf)](downloads/Dictionary_of_Kink_Terminology.pdf?target=_blank)  
+[Dictionary of Kink Terminology (docx)](downloads/Dictionary_of_Kink_Terminology.docx?target=_blank)
 {{% /notice %}}
 
 ## General Terms

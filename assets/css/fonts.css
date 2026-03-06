@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Iosevka Curly Slab';
+    src: url('Iosevka-Curly-Slab-Semibold.woff2') format('woff2'),
+        url('Iosevka-Curly-Slab-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Iosevka Slab';
+    src: url('Iosevka-Slab-Semibold.woff2') format('woff2'),
+        url('Iosevka-Slab-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

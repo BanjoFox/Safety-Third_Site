@@ -3,7 +3,7 @@ title = ""
 type = "home"
 +++
 
-![Safety Third Logo](assets/images/logo.svg)
+![Safety Third Logo](/images/safety-third_banner-logoless.svg?width=25vw)
 
 Welcome to the home page of Safety Third's collection of openly licenced documents, aimed at providing FREE (as in beer) education for the kink community.
 
