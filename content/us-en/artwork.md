@@ -21,10 +21,10 @@ The OFFICIAL(tm) Safety Third art, and design assets.
 
 ### Web Banner with Logo
 
-![Offical Logo](/images/safety-third_banner-logo.svg?classes=left)
+![Web Banner with Logo](/images/safety-third_banner-logo.svg?classes=left)
 
 ---
 
 ### Web Banner no-logo
 
-![Offical Logo](/images/safety-third_banner-logoless.svg?classes=left)
+![OpenGraph Image](/images/og.png?classes=left)

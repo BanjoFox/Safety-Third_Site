@@ -2,7 +2,7 @@
 type = "home"
 title = "Safety Third"
 description = "Welcome to the homepage of Safety Third. An educational organization who's primary function is to provide free, and open resources to the modern kink community."
-images = ['/images/hero.png']
+images = ['/images/og.png']
 +++
 
 ![Safety Third Logo](/images/safety-third_banner-logoless.svg)
