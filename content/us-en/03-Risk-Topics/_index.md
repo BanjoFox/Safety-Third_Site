@@ -10,11 +10,6 @@ toc = true
     menuPre = '<i class="fa fa-bookmark" aria-hidden="true"></i>'
 +++
 
-Please See
-
-[Risk Terminology](Risk-Terminology) for a review of terminology relating to risk.  
-[Risk Profile Designer](Risk-Profile-Designer) for the Risk Profile Designer, to help you build a personal risk profile.
-
 ## About this section
 
 This page is meant to act as a chapter header for risk-themed content. These are the two sections currently on offer:
