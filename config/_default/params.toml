@@ -246,7 +246,7 @@ disableNextPrev = false
 # `${FilePath}` was appended at the end of the value. This can be overridden
 # in the pages frontmatter. This is useful if you want to give the opportunity
 # for people to create merge request for your content.
-editURL = 'https://github.com/BanjoFox/Safety-Third/tree/main/content/us-en/${FilePath}'
+editURL = 'https://github.com/BanjoFox/Safety-Third/edit/main/content/${FilePath}'
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Search

@@ -1,0 +1,64 @@
+name: Documentation Issue
+description: Report a problem or improvement for documentation pages
+title: "Docs: "
+labels:
+  - documentation
+  - needs-triage
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the documentation!
+
+  - type: input
+    id: page_url
+    attributes:
+      label: Documentation Page
+      description: Link to the page where the issue occurred
+      placeholder: https://docs.example.com/page
+    validations:
+      required: true
+
+  - type: input
+    id: source_file
+    attributes:
+      label: Source File
+      description: GitHub file path if known
+      placeholder: content/us-en/page.md
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Type of issue
+      options:
+        - Incorrect information
+        - Missing information
+        - Typo / grammar
+        - Broken link
+        - Outdated content
+        - Suggestion / improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the issue
+      description: What is wrong or confusing?
+      placeholder: Describe the problem with the documentation.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Suggested fix
+      description: If you have an idea for improvement, please share it.
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      options:
+        - label: I would be willing to submit a pull request to fix this
