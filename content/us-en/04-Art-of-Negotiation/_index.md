@@ -45,8 +45,8 @@ How, and when you approach others is largely situational, but should be appropri
 
 - Do you have _experience_ with what you are wanting to partake in?
 
-Experience will undoubtely shape the way you negotiate, and in many cases means that you may be tempted skip some of the inroductory questions an answer.  Unless those questions are very basic, for example "what is a single tail?", then it is still a best practice to do a quick review.
+Experience will undoubtedly shape the way you negotiate, and in many cases means that you may be tempted skip some of the introductory questions an answer.  Unless those questions are very basic, for example "what is a single tail?", then it is still a best practice to do a quick review.
 
-For the un-initiated, or even if you are new to a particular type of scene, curiosity is often the ideal approach.  The more questios you ask, the better equipped you will be to decide whether or not you even wish to proceed.
+For the un-initiated, or even if you are new to a particular type of scene, curiosity is often the ideal approach.  The more questions you ask, the better equipped you will be to decide whether or not you even wish to proceed.
 
 [ To be Continued ]
