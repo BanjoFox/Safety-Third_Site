@@ -3096,7 +3096,6 @@ body[data-theme='dark'] .card-container .card:hover,
   --VARIABLE-BOX-BG-color: var(--VARIABLE-LINK-color);
 }
 
-
 /* Custom CSS for license block (content-footer.html) */
 .doc-license {
   display: flex;
