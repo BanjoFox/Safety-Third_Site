@@ -40,3 +40,4 @@ bower_components
 
 # Mac File System File...utterly useless to anyone but me.
 .DS_Store
+.vscode/settings.json
