@@ -38,7 +38,7 @@ In kink, much like cybersecurity trust is a very strong word. Some, myself inclu
 
 While I cannot speak to the originators intent, it is my interpretation that the first half of the phrase ("never trust) is meant to be harsh and unforgiving. Therefore emphasis falls onto the second half "always verify". Verification not only minimizes doubts, but it should also clear away both presumptions, and assumptions.
 
-(...tying this into the Purpose and Intent of negotiation)
+All of that is a very verbose way of saying that negotiations, as related to kink, are all about removing ambiguity and setting clear goals and intentions.
 
 ### First Interaction
 
